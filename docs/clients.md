@@ -6,13 +6,13 @@
 
 After <a href="https://github.com/hwdsl2/setup-ipsec-vpn" target="_blank">setting up your own VPN server</a>, follow these steps to configure your devices. IPsec/L2TP is natively supported by Android, iOS, OS X, and Windows. There is no additional software to install. Setup should only take a few minutes. In case you are unable to connect, first check to make sure the VPN credentials were entered correctly.
 
-*VPN 服务器 IP: 52.15.193.239*
+*VPN Server IP: 52.15.193.239*
 
 *IPsec PSK: KevinQHuang.com*
 
-*VPN 用户名: free*
+*VPN Account: free*
 
-*VPN 密码: kevinhuang*
+*VPN Password: kevinhuang*
 
 ---
 * Platforms
