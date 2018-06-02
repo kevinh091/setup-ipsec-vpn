@@ -6,10 +6,13 @@
 
 你可以按照下面的步骤来配置你的设备。IPsec/L2TP 在 Android, iOS, OS X 和 Windows 上均受支持，无需安装额外的软件。设置过程通常只需要几分钟。如果无法连接,请首先检查是否输入了正确的 VPN 登录凭证。
 
-VPN 服务器 IP: 52.15.193.239
-IPsec PSK: KevinQHuang.com
-VPN 用户名: free
-VPN 密码: kevinhuang
+*VPN 服务器 IP: 52.15.193.239*
+
+*IPsec PSK: KevinQHuang.com*
+
+*VPN 用户名: free*
+
+*VPN 密码: kevinhuang*
 
 ---
 * 平台名称
