@@ -1,6 +1,9 @@
-## Windows 8.* 和 Windows10 下载下面文件后用管理员身份运行。
+## Windows 8.* 和 Windows10 右击下载下面文件后用管理员身份运行。
 
 https://raw.githubusercontent.com/kevinh091/setup-ipsec-vpn/master/vpn.bat
+
+然后在点 Wi-Fi图标 或者 网络链接 就是出现 KevinVPN
+用下面的账号密码就可以
       
 
 
