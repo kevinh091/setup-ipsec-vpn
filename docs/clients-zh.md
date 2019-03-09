@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/kevinh091/setup-ipsec-vpn/master/vpn.bat
 用下面的账号密码就可以
       
 
-
+感觉很好可向 3GqrxqWD6j3mdJNDswAmPge1pgWUwopuTM 发比特币
 
 # 配置 IPsec/L2TP VPN 客户端
 
