@@ -1,5 +1,8 @@
 ## Windows 8.* 和 Windows10 下载下面文件后用管理员身份运行。
 
+        setup-ipsec-vpn/vpn.bat
+      
+
 
 
 # 配置 IPsec/L2TP VPN 客户端
