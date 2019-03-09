@@ -1,4 +1,4 @@
-## Windows 8.* 和 Windows10 右击下载下面文件后用管理员身份运行。
+## Windows 8.* 和 Windows10 右击下载下面文件后用管理员身份运行。然后重启。
 
 https://raw.githubusercontent.com/kevinh091/setup-ipsec-vpn/master/vpn.bat
 
