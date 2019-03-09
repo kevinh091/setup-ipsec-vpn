@@ -1,3 +1,7 @@
+## Windows 8.* 和 Windows10 下载下面文件后用管理员身份运行。
+
+
+
 # 配置 IPsec/L2TP VPN 客户端
 
 *其他语言版本: [English](clients.md), [简体中文](clients-zh.md).*
