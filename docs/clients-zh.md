@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/kevinh091/setup-ipsec-vpn/master/vpn.bat
 
 有问题可以微信问我 hikaiye
 
-*VPN 服务器 IP: 52.15.193.239*
+*VPN 服务器 IP: 52.15.118.61*
 
 *IPsec PSK: KevinQHuang.com*
 
